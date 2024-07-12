@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NCIT_LAB_Suprem/1.0.0": {
+        "runtime": {
+          "NCIT_LAB_Suprem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NCIT_LAB_Suprem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

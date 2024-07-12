@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\NCIT_LAB_Suprem\NCIT_LAB_Suprem\bin\Debug\net8.0\NCIT_LAB_Suprem.exe
+C:\Users\user\source\repos\NCIT_LAB_Suprem\NCIT_LAB_Suprem\bin\Debug\net8.0\NCIT_LAB_Suprem.deps.json
+C:\Users\user\source\repos\NCIT_LAB_Suprem\NCIT_LAB_Suprem\bin\Debug\net8.0\NCIT_LAB_Suprem.runtimeconfig.json
+C:\Users\user\source\repos\NCIT_LAB_Suprem\NCIT_LAB_Suprem\bin\Debug\net8.0\NCIT_LAB_Suprem.dll
+C:\Users\user\source\repos\NCIT_LAB_Suprem\NCIT_LAB_Suprem\bin\Debug\net8.0\NCIT_LAB_Suprem.pdb
+C:\Users\user\source\repos\NCIT_LAB_Suprem\NCIT_LAB_Suprem\obj\Debug\net8.0\NCIT_LAB_Suprem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\NCIT_LAB_Suprem\NCIT_LAB_Suprem\obj\Debug\net8.0\NCIT_LAB_Suprem.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\NCIT_LAB_Suprem\NCIT_LAB_Suprem\obj\Debug\net8.0\NCIT_LAB_Suprem.AssemblyInfo.cs
+C:\Users\user\source\repos\NCIT_LAB_Suprem\NCIT_LAB_Suprem\obj\Debug\net8.0\NCIT_LAB_Suprem.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\NCIT_LAB_Suprem\NCIT_LAB_Suprem\obj\Debug\net8.0\NCIT_LAB_Suprem.dll
+C:\Users\user\source\repos\NCIT_LAB_Suprem\NCIT_LAB_Suprem\obj\Debug\net8.0\refint\NCIT_LAB_Suprem.dll
+C:\Users\user\source\repos\NCIT_LAB_Suprem\NCIT_LAB_Suprem\obj\Debug\net8.0\NCIT_LAB_Suprem.pdb
+C:\Users\user\source\repos\NCIT_LAB_Suprem\NCIT_LAB_Suprem\obj\Debug\net8.0\NCIT_LAB_Suprem.genruntimeconfig.cache
+C:\Users\user\source\repos\NCIT_LAB_Suprem\NCIT_LAB_Suprem\obj\Debug\net8.0\ref\NCIT_LAB_Suprem.dll
